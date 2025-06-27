@@ -11,6 +11,14 @@ sites:
     url: https://next.cloud.out.ba/s/NPAyfsYPeStzDTN/download
   - name: redmine.bring.out.ba
     url: https://redmine.bring.out.ba/
+  - name: dns paris
+    url: pub3.out.ba
+    check: "tcp-ping"
+    port: 53
+  - name: dns frankfurt
+    url: pub1.out.ba
+    check: "tcp-ping"
+    port: 53 
 
 #  - name: IPv6 test
 #    url: forwardemail.net
