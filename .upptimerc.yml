@@ -11,6 +11,8 @@ sites:
     url: https://next.cloud.out.ba/s/NPAyfsYPeStzDTN/download
   - name: redmine.bring.out.ba
     url: https://redmine.bring.out.ba/
+  - name: bring.out odoo
+    url: https://bringout.odoo.cloud.out.ba/
   - name: dns paris
     url: pub3.out.ba
     check: "tcp-ping"
