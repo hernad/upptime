@@ -7,7 +7,9 @@ sites:
     url: http://download.bring.out.ba/host.txt
   - name: next.cloud.out.ba
     url: https://next.cloud.out.ba/s/NPAyfsYPeStzDTN/download
-  
+  - name: redmine.bring.out.ba
+    url: https://redmine.bring.out.ba/
+
 #  - name: IPv6 test
 #    url: forwardemail.net
 #    port: 80
