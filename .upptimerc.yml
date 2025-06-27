@@ -3,6 +3,8 @@ owner: hernad
 repo: upptime
 
 sites:
+  - name: www.bring.out.ba
+    url: http://www.bring.out.ba
   - name: download bring.out.ba
     url: http://download.bring.out.ba/host.txt
   - name: next.cloud.out.ba
