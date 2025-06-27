@@ -5,6 +5,9 @@ repo: upptime
 sites:
   - name: download bring.out.ba
     url: http://download.bring.out.ba/host.txt
+  - name: next.cloud.out.ba
+    url: https://next.cloud.out.ba/s/NPAyfsYPeStzDTN/download
+  
 #  - name: IPv6 test
 #    url: forwardemail.net
 #    port: 80
@@ -16,7 +19,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.bring.out.ba
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.bring-out-ba.uk/bring_cakija.png
   name: Upptime bring.out
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
