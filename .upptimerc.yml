@@ -14,7 +14,9 @@ sites:
   - name: bring.out odoo
     url: https://bringout.odoo.cloud.out.ba/
   - name: keycloak.bring.out.ba
-  - url: https://keycloak.cloud.out.ba/  
+    url: https://keycloak.cloud.out.ba/
+  - name: univention
+    url: https://univention.sa.out.ba/
   - name: dns paris
     url: pub3.out.ba
     check: "tcp-ping"
