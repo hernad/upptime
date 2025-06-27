@@ -21,7 +21,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://www.bring-out-ba.uk/bring_cakija.png
   name: Upptime bring.out
-  introTitle: "**Upptime** je opensource monitor i statusna stranica generisana u cjelosti od GitHub-a."
+  introTitle: "Status bring.out servisa"
   introMessage: Statusna stranica servisa bring.out doo Sarajevo u **realnom vremenu**. Izvor [GitHub repozitorij](https://github.com/hernad/upptime). Server nije potreban - samo GitHub Actions, Issues, and Pages.  
   navbar:
     - title: Status
