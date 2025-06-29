@@ -113,18 +113,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/headscale.out.ba.ico",
     "slug": "headscale",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1005,
-    "timeDay": 1000,
-    "timeWeek": 1005,
-    "timeMonth": 1005,
-    "timeYear": 1005,
+    "uptime": "96.80%",
+    "uptimeDay": "94.85%",
+    "uptimeWeek": "96.80%",
+    "uptimeMonth": "96.80%",
+    "uptimeYear": "96.80%",
+    "time": 909,
+    "timeDay": 843,
+    "timeWeek": 909,
+    "timeMonth": 909,
+    "timeYear": 909,
     "dailyMinutesDown": {
-      "2025-06-28": 0
+      "2025-06-29": 69,
+      "2025-06-28": 5
     }
   },
   {
