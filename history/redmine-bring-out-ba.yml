@@ -1,7 +1,7 @@
 url: https://redmine.bring.out.ba/
-status: up
-code: 200
-responseTime: 796
-lastUpdated: 2025-10-07T23:21:19.749Z
+status: down
+code: 502
+responseTime: 11307
+lastUpdated: 2025-10-08T11:14:08.775Z
 startTime: 2025-06-27T10:03:32.562Z
 generator: Upptime <https://github.com/upptime/upptime>
