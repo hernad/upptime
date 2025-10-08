@@ -1,7 +1,7 @@
 url: http://download.bring.out.ba/host.txt
-status: down
-code: 502
-responseTime: 14912
-lastUpdated: 2025-10-08T10:56:33.169Z
+status: up
+code: 200
+responseTime: 711
+lastUpdated: 2025-10-08T11:25:47.783Z
 startTime: 2025-06-27T09:10:25.770Z
 generator: Upptime <https://github.com/upptime/upptime>
