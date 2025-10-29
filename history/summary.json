@@ -146,10 +146,10 @@
     "url": "https://headscale.out.ba/register/nodekey:aff680ab34bbd3bfcb3b076910d0543eeea1234f53dd0464a423c8f056e1cf99",
     "icon": "https://icons.duckduckgo.com/ip3/headscale.out.ba.ico",
     "slug": "headscale",
-    "status": "up",
+    "status": "down",
     "uptime": "98.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.96%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "98.95%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "98.65%",
     "time": 902,
@@ -158,6 +158,7 @@
     "timeMonth": 1109,
     "timeYear": 902,
     "dailyMinutesDown": {
+      "2025-10-29": 1,
       "2025-10-23": 104,
       "2025-10-22": 1,
       "2025-10-08": 110,
@@ -223,9 +224,9 @@
     "url": "pub1.out.ba",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-frankfurt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -234,6 +235,8 @@
     "timeWeek": 115,
     "timeMonth": 125,
     "timeYear": 123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-29": 0
+    }
   }
 ]
