@@ -1,7 +1,7 @@
 url: https://bringout.odoo.cloud.out.ba/
-status: up
-code: 200
-responseTime: 1438
-lastUpdated: 2025-11-05T06:47:08.393Z
+status: down
+code: 502
+responseTime: 994
+lastUpdated: 2025-11-05T19:39:57.542Z
 startTime: 2025-06-27T10:18:50.075Z
 generator: Upptime <https://github.com/upptime/upptime>
