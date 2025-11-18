@@ -1,7 +1,7 @@
 url: https://keycloak.cloud.out.ba/
-status: down
-code: 502
-responseTime: 15378
-lastUpdated: 2025-11-18T16:50:50.110Z
+status: up
+code: 200
+responseTime: 1155
+lastUpdated: 2025-11-18T17:40:42.489Z
 startTime: 2025-06-27T10:22:36.452Z
 generator: Upptime <https://github.com/upptime/upptime>
