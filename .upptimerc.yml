@@ -16,7 +16,7 @@ sites:
   - name: keycloak.bring.out.ba
     url: https://keycloak.cloud.out.ba/
   - name: headscale
-    url: https://headscale.out.ba/health
+    url: https://headscale.out.ba/test-email-notification
   - name: dns paris
     url: pub3.out.ba
     check: "tcp-ping"
