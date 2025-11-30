@@ -16,7 +16,7 @@ sites:
   - name: keycloak.bring.out.ba
     url: https://keycloak.cloud.out.ba/
   - name: headscale
-    url: https://headscale.out.ba/register/nodekey:aff680ab34bbd3bfcb3b076910d0543eeea1234f53dd0464a423c8f056e1cf99
+    url: https://headscale.out.ba/health
   - name: dns paris
     url: pub3.out.ba
     check: "tcp-ping"
