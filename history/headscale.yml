@@ -1,7 +1,7 @@
-url: https://headscale.out.ba/test-email-notification
-status: down
-code: 404
-responseTime: 854
-lastUpdated: 2025-11-30T12:46:52.295Z
+url: https://headscale.out.ba/health
+status: up
+code: 200
+responseTime: 563
+lastUpdated: 2025-11-30T12:47:51.412Z
 startTime: 2025-06-27T10:31:02.156Z
 generator: Upptime <https://github.com/upptime/upptime>
