@@ -1,7 +1,7 @@
 url: https://headscale.out.ba/health
-status: down
-code: 502
-responseTime: 1076
-lastUpdated: 2026-03-22T23:35:01.887Z
+status: up
+code: 200
+responseTime: 1115
+lastUpdated: 2026-03-23T06:56:03.149Z
 startTime: 2025-06-27T10:31:02.156Z
 generator: Upptime <https://github.com/upptime/upptime>
