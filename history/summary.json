@@ -85,17 +85,17 @@
     "url": "https://redmine.bring.out.ba/",
     "icon": "https://icons.duckduckgo.com/ip3/redmine.bring.out.ba.ico",
     "slug": "redmine-bring-out-ba",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "94.48%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "98.56%",
-    "uptimeYear": "99.76%",
-    "time": 1154,
-    "timeDay": 13572,
-    "timeWeek": 3937,
-    "timeMonth": 2415,
-    "timeYear": 1154,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "90.76%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "98.44%",
+    "uptimeYear": "99.75%",
+    "time": 1158,
+    "timeDay": 9971,
+    "timeWeek": 3807,
+    "timeMonth": 2424,
+    "timeYear": 1158,
     "dailyMinutesDown": {
       "2025-07-12": 235,
       "2025-08-21": 46,
@@ -105,7 +105,7 @@
       "2026-05-14": 37,
       "2026-05-24": 238,
       "2026-05-25": 276,
-      "2026-06-06": 79
+      "2026-06-06": 133
     }
   },
   {
