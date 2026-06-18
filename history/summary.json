@@ -58,9 +58,9 @@
     "url": "https://next.cloud.out.ba/s/NPAyfsYPeStzDTN/download",
     "icon": "https://icons.duckduckgo.com/ip3/next.cloud.out.ba.ico",
     "slug": "next-cloud-out-ba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -78,7 +78,8 @@
       "2025-10-08": 62,
       "2025-11-16": 20,
       "2025-11-18": 21,
-      "2026-05-14": 38
+      "2026-05-14": 38,
+      "2026-06-18": 0
     }
   },
   {
