@@ -58,17 +58,17 @@
     "url": "https://next.cloud.out.ba/s/NPAyfsYPeStzDTN/download",
     "icon": "https://icons.duckduckgo.com/ip3/next.cloud.out.ba.ico",
     "slug": "next-cloud-out-ba",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
-    "time": 1823,
-    "timeDay": 2382,
-    "timeWeek": 2274,
-    "timeMonth": 2139,
-    "timeYear": 1823,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "86.85%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.86%",
+    "time": 1822,
+    "timeDay": 2017,
+    "timeWeek": 2196,
+    "timeMonth": 2124,
+    "timeYear": 1822,
     "dailyMinutesDown": {
       "2025-07-02": 62,
       "2025-07-09": 21,
@@ -79,7 +79,7 @@
       "2025-11-16": 20,
       "2025-11-18": 21,
       "2026-05-14": 38,
-      "2026-06-18": 0
+      "2026-06-18": 189
     }
   },
   {
